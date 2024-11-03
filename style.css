@@ -1,0 +1,23 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-shadow: 2px 3px 6px rgb(0, 0, 255);
+    text-decoration: underline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    width: 250px;
+    justify-content: center;
+    height: auto;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 19px;
+    font-style: italic;
+    background-color: rgb(255, 249, 241);
+    color: black;
+}
